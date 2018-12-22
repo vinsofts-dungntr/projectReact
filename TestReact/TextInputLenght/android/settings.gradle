@@ -1,0 +1,3 @@
+rootProject.name = 'TextInputLenght'
+
+include ':app'

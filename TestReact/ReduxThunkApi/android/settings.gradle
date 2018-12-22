@@ -1,0 +1,3 @@
+rootProject.name = 'ReduxThunkApi'
+
+include ':app'
